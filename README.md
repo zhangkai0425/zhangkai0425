@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🦄️ I'm interested in Quantum computating & Machine Learning.
+- 🦄️ I'm interested in Quantum Computating & Machine Learning.
 
 - 🔭 I’m currently working on Quantum Computing & Machine Learning.
 
-- 🌱 I’m currently learning Quantum Error Correction.
+- 🌱 I’m currently learning Quantum Error Correction & FTQC Architecture.
 
 - 🤔 I’m looking for help with Quantum Error Correction.
 
